@@ -20,7 +20,7 @@ body = JSON.stringify({
     "data": {
         "times": "3ms",
         "code": 200,
-        "infoId": "null",
+        "infoId": null,
         "data": null
     }
 })
